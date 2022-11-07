@@ -89,6 +89,7 @@ php artisan db:seed --class=UsersTablecustomerSeeder
 #### Step 7: Test with postman, use following routes for get results
 
 > Note : Already shared postman collection for test.
+> Location : mini-aspire/postman_collection/
 
 - ##### Customer Module
 
