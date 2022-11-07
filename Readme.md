@@ -165,10 +165,16 @@ php artisan db:seed --class=UsersTablecustomerSeeder
   http://127.0.0.1:8000/api/approveloan
   ```
 
-  > - Log out
+  > - Customer Log out
 
   ```markdown
   http://127.0.0.1:8000/api/logout
+  ```
+
+> - Admin Log out
+
+  ```markdown
+  http://127.0.0.1:8000/api/admin_logout
   ```
 
 #### Step 8 : API or secure route
