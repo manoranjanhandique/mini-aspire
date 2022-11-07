@@ -132,7 +132,7 @@ php artisan db:seed --class=UsersTablecustomerSeeder
 
   > - **Customer installment repayments**
   >
-  >   After approved the loan by admin customer can repayment with amount equal to the scheduled repayment. Field used : **due_amount**= ?
+  >   After approved the loan by admin customer can repayment with amount equal to the scheduled repayment. Field used : **due_amount**= ? **loan_no** = ?
 
   ```markdown
   http://127.0.0.1:8000/api/repaymentloan
